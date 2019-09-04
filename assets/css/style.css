@@ -1180,16 +1180,16 @@ section {
 .btn--white {
   background-color: #ffffff;
   color: #6262a0;
-  border: 1px solid #ffffff;
+  border: 1px solid #6262a0;
   border-radius: 4px;
 }
 
 .btn--white:active,
 .btn--white:focus,
 .btn--white:hover {
-  background-color: #664ffa;
+  background-color: #6262a0;
   color: #ffffff;
-  border-color: #664ffa;
+  border-color: #6262a0;
 }
 
 /* Button Block */
@@ -2858,3 +2858,15 @@ footer .footer-bottom .footer-copyright {
 .clients-bar.desktop {
     display: none;
 }}
+
+
+#headerPopup{
+  width:75%;
+  margin:0 auto;
+}
+
+#headerPopup iframe{
+  width:100%;
+  margin:0 auto;
+}
+
