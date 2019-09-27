@@ -7756,7 +7756,7 @@ tbody.collapse.show {
     font-size: 1.25rem;
     line-height: inherit;
     white-space: nowrap;
-    margin-top: -40px;
+    margin-top: -10px;
 }
 
 @media(max-width: 479px){
